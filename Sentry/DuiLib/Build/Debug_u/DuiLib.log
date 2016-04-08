@@ -1,0 +1,90 @@
+﻿  StdAfx.cpp
+e:\duilib\duilib-master\duilib\Core/UIManager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cwchar(29): warning C4995: “swprintf”: 名称被标记为 #pragma deprecated
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cwchar(30): warning C4995: “vswprintf”: 名称被标记为 #pragma deprecated
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cwchar(32): warning C4995: “wcscat”: 名称被标记为 #pragma deprecated
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cwchar(34): warning C4995: “wcscpy”: 名称被标记为 #pragma deprecated
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdio(50): warning C4995: “sprintf”: 名称被标记为 #pragma deprecated
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdio(53): warning C4995: “vsprintf”: 名称被标记为 #pragma deprecated
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstring(20): warning C4995: “strcat”: 名称被标记为 #pragma deprecated
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstring(21): warning C4995: “strcpy”: 名称被标记为 #pragma deprecated
+  UIWebBrowser.cpp
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\atlconv.h(776): warning C4995: “wcscpy”: 名称被标记为 #pragma deprecated
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\atlconv.h(787): warning C4995: “wcscat”: 名称被标记为 #pragma deprecated
+  UIText.cpp
+Control\UIText.cpp(52): warning C4302: “类型转换”: 从“LPWSTR”到“WORD”截断
+  UISlider.cpp
+Control\UISlider.cpp(212): warning C4302: “类型转换”: 从“LPWSTR”到“WORD”截断
+  UIScrollBar.cpp
+  UIRichEdit.cpp
+Control\UIRichEdit.cpp(211): warning C4995: “_tcscpy”: 名称被标记为 #pragma deprecated
+Control\UIRichEdit.cpp(211): warning C4995: “wcscpy”: 名称被标记为 #pragma deprecated
+Control\UIRichEdit.cpp(805): warning C4995: “_tcscpy”: 名称被标记为 #pragma deprecated
+Control\UIRichEdit.cpp(805): warning C4995: “wcscpy”: 名称被标记为 #pragma deprecated
+  UIProgress.cpp
+  UIOption.cpp
+  UIList.cpp
+Control\UIList.cpp(1780): warning C4302: “类型转换”: 从“LPWSTR”到“WORD”截断
+Control\UIList.cpp(2416): warning C4302: “类型转换”: 从“LPWSTR”到“WORD”截断
+  UILabel.cpp
+  UIGifAnim.cpp
+  UIEdit.cpp
+Control\UIEdit.cpp(288): warning C4302: “类型转换”: 从“LPWSTR”到“WORD”截断
+  UIDateTime.cpp
+Control\UIDateTime.cpp(297): warning C4302: “类型转换”: 从“LPWSTR”到“WORD”截断
+  UICombo.cpp
+  UICheckBox.cpp
+  UIButton.cpp
+Control\UIButton.cpp(127): warning C4302: “类型转换”: 从“LPWSTR”到“WORD”截断
+  UIActiveX.cpp
+  UIVerticalLayout.cpp
+Layout\UIVerticalLayout.cpp(302): warning C4302: “类型转换”: 从“LPWSTR”到“WORD”截断
+  UITileLayout.cpp
+  UITabLayout.cpp
+  UIHorizontalLayout.cpp
+Layout\UIHorizontalLayout.cpp(301): warning C4302: “类型转换”: 从“LPWSTR”到“WORD”截断
+  正在生成代码...
+  正在编译...
+  UIChildLayout.cpp
+  UIRender.cpp
+Core\UIRender.cpp(1188): warning C4838: 从“int”转换到“COLOR16”需要收缩转换
+  UIMarkup.cpp
+  UIManager.cpp
+Core\UIManager.cpp(1042): warning C4838: 从“DWORD”转换到“LONG”需要收缩转换
+  UIDlgBuilder.cpp
+  UIControl.cpp
+Core\UIControl.cpp(831): warning C4302: “类型转换”: 从“LPWSTR”到“WORD”截断
+  UIContainer.cpp
+  UIBase.cpp
+Core\UIBase.cpp(21): warning C4995: “_tcscat”: 名称被标记为 #pragma deprecated
+Core\UIBase.cpp(21): warning C4995: “wcscat”: 名称被标记为 #pragma deprecated
+Core\UIBase.cpp(85): warning C4995: “wsprintf”: 名称被标记为 #pragma deprecated
+Core\UIBase.cpp(85): warning C4995: “wsprintfW”: 名称被标记为 #pragma deprecated
+  WndShadow.cpp
+  Utils.cpp
+Utils\Utils.cpp(465): warning C4995: “_tcscpy”: 名称被标记为 #pragma deprecated
+Utils\Utils.cpp(465): warning C4995: “wcscpy”: 名称被标记为 #pragma deprecated
+Utils\Utils.cpp(466): warning C4995: “_tcscat”: 名称被标记为 #pragma deprecated
+Utils\Utils.cpp(466): warning C4995: “wcscat”: 名称被标记为 #pragma deprecated
+Utils\Utils.cpp(470): warning C4995: “_tcscat”: 名称被标记为 #pragma deprecated
+Utils\Utils.cpp(470): warning C4995: “wcscat”: 名称被标记为 #pragma deprecated
+Utils\Utils.cpp(478): warning C4995: “_tcscat”: 名称被标记为 #pragma deprecated
+Utils\Utils.cpp(478): warning C4995: “wcscat”: 名称被标记为 #pragma deprecated
+Utils\Utils.cpp(777): warning C4995: “_vsntprintf”: 名称被标记为 #pragma deprecated
+Utils\Utils.cpp(777): warning C4995: “_vsnwprintf”: 名称被标记为 #pragma deprecated
+Utils\Utils.cpp(780): warning C4995: “_vsntprintf”: 名称被标记为 #pragma deprecated
+Utils\Utils.cpp(780): warning C4995: “_vsnwprintf”: 名称被标记为 #pragma deprecated
+Utils\Utils.cpp(793): warning C4995: “wvsprintf”: 名称被标记为 #pragma deprecated
+Utils\Utils.cpp(793): warning C4995: “wvsprintfW”: 名称被标记为 #pragma deprecated
+  UIDelegate.cpp
+  WinImplBase.cpp
+  UIlib.cpp
+  UITreeView.cpp
+  正在生成代码...
+  stb_image.c
+  XUnzip.cpp
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1189,5): warning MSB8012: TargetPath(E:\Duilib\duilib-master\DuiLib\.\Build\Debug_u\DuiLib.dll) does not match the Linker's OutputFile property value (E:\Duilib\duilib-master\bin\DuiLib_ud.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1191,5): warning MSB8012: TargetName(DuiLib) does not match the Linker's OutputFile property value (DuiLib_ud). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1193,5): warning MSB8030: The linker switch "Minimum Required Version" requires "SubSystem" to be set.  Without "SubSystem", the "Minimum Required Version" would not be passed to linker and could prevent to the output binary from running on older Operating Systems.
+    正在创建库 ../Lib/DuiLib_ud.lib 和对象 ../Lib/DuiLib_ud.exp
+  DuiLib.vcxproj -> E:\Duilib\duilib-master\DuiLib\.\Build\Debug_u\DuiLib.dll

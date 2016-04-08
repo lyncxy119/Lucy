@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+e:\sentry\sentry\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+  Sentry.cpp
+  Sentry.vcxproj -> E:\Sentry\Sentry\x64\Debug\Sentry.exe
